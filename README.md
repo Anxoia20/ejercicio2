@@ -1,0 +1,1 @@
+![Imagen tabla](table.png)
